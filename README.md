@@ -5,3 +5,6 @@
 
 onnx模型文件在百度云盘，链接:https://pan.baidu.com/s/1gdh16gPF2luYXS6AbpK9Ag 
 提取码:c2js
+
+如上述链接失效, 链接如下: https://pan.baidu.com/s/1pjXjhR2uJuk24UEmB4r-DQ
+提取码: 6666
